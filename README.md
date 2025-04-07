@@ -3,7 +3,7 @@
 <h2>💡 About me</h2>
 
 <p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&langs_count=4&theme=transparent" width="30%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&langs_count=4&theme=transparent" width="300" />
   <ul>
     <li>Konkuk Univ. CS major</li>
     <li>Mainly backend developer</li>
