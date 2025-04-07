@@ -2,5 +2,5 @@
 
 ### Welcome :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&theme=dark&langs_count=4)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isoo127&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&langs_count=4)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isoo127&show_icons=true)
