@@ -2,14 +2,20 @@
 
 <h2>💡 About me</h2>
 
-<p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&langs_count=4&theme=transparent" width="300" />
-  <ul>
-    <li>Konkuk Univ. CS major</li>
-    <li>Mainly backend developer</li>
-    <li>National top Renju player</li>
-  </ul>
-</p>
+<table>
+<tr>
+  <td valign="center">
+    <ul>
+      <li>Konkuk Univ. CS major</li>
+      <li>Mainly backend developer</li>
+      <li>National top Renju player</li>
+    </ul>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&langs_count=4&theme=transparent" width="300" />
+  </td>
+</tr>
+</table>
 <br>
 
 <h2>💻 Tech Stack</h2>
