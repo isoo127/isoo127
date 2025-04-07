@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4cc3db&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4cc3db&height=100&section=header"/>
+
 ### About me
 🎓 CS major at Konkuk Univ.  
 🧑‍💻 Developer focused on clean code and mobile apps  
