@@ -2,4 +2,4 @@
 
 ### Welcome :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&theme=dark&langs_count=4)
