@@ -10,6 +10,6 @@
 
 <h2>🔗 Links</h2>
 <a href="https://isoo127.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/></a>
-[![Renju Profile Badge](http://img.shields.io/badge/-Renju%20profile-blue?style=flat-square&logo=runrundotit&link=https://www.renju.net/people/130071/)](https://www.renju.net/people/130071/)
+<a href="https://www.renju.net/people/130071/"><img src="http://img.shields.io/badge/-Renju%20profile-blue?style=flat-square&logo=runrundotit"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&langs_count=4&theme=transparent)
