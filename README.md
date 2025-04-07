@@ -1,5 +1,5 @@
 ### Welcome :)
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?color=auto)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
