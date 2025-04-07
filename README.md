@@ -2,21 +2,17 @@
 
 <h2>💡 About me</h2>
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>CS major at Konkuk Univ.</li>
-        <li>Developer focused on clean code and mobile apps</li>
-        <li>Korea’s top-ranked professional Renju player</li>
-        <li>Learning Spring Boot & system design</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&langs_count=4&theme=transparent"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <ul>
+      <li>CS major at Konkuk Univ.</li>
+      <li>Developer focused on clean code and mobile apps</li>
+      <li>Korea’s top-ranked professional Renju player</li>
+      <li>Learning Spring Boot & system design</li>
+    </ul>
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&langs_count=4&theme=transparent" width="300"/>
+</div>
 
 <h2>💻 Tech Stack</h2>
 
