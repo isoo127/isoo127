@@ -47,4 +47,4 @@
 <h2>🔗 Links</h2>
 <a href="https://isoo127.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github" /></a>
 <a href="https://www.renju.net/people/130071/"><img src="http://img.shields.io/badge/-Renju%20profile-blue?style=flat-square&logo=googletagmanager" /></a>
-<a href="https://solved.ac/profile/gmtmoney2357"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=isoo_ksm"/></a>
+<a href="https://solved.ac/profile/isoo_ksm"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=isoo_ksm"/></a>
