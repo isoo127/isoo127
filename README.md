@@ -9,7 +9,7 @@
 <h2>💻 Tech Stack</h2>
 
 <h2>🔗 Links</h2>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isoo127.github.io/)](https://isoo127.github.io/)
+<a href="https://isoo127.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/></a>
 [![Renju Profile Badge](http://img.shields.io/badge/-Renju%20profile-blue?style=flat-square&logo=runrundotit&link=https://www.renju.net/people/130071/)](https://www.renju.net/people/130071/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isoo127&layout=compact&langs_count=4&theme=transparent)
