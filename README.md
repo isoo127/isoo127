@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4cc3db&height=100&section=header" />
 
 ### About me
-🎓 CS major at Konkuk Univ.
-🧑‍💻 Developer focused on clean code and mobile apps
-🎯 Korea’s top-ranked professional Renju player
-🌱 Learning Spring Boot & system design
+🎓 CS major at Konkuk Univ.  
+🧑‍💻 Developer focused on clean code and mobile apps  
+🎯 Korea’s top-ranked professional Renju player  
+🌱 Learning Spring Boot & system design  
 
 ### 💻 Tech Stack
 
