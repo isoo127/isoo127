@@ -45,6 +45,7 @@
 <br>
 
 <h2>🔗 Links</h2>
-<a href="https://isoo127.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github" /></a>
-<a href="https://www.renju.net/people/130071/"><img src="http://img.shields.io/badge/-Renju%20profile-blue?style=flat-square&logo=googletagmanager" /></a>
+<a href="https://isoo127.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-181717?style=flat&logo=github&logoColor=white&link=https://isoo127.github.io"/></a>
+<a href="https://www.renju.net/people/130071/"><img src="http://img.shields.io/badge/-Renju%20profile-blue?style=flat&logo=googletagmanager" /></a>
+<a href="mailto:rdrniel12345@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white&link=rdrniel12345@gmail.com"/></a>
 <a href="https://solved.ac/profile/isoo_ksm"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=isoo_ksm"/></a>
